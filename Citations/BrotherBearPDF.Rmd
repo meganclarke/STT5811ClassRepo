@@ -2,7 +2,7 @@
 title: "Brother Bear"
 author: "Sitka"
 date: "8/24/2015"
-output: html_document
+output: pdf_document
 nocite: |
   @abadie_dysgenesis_2010
 csl: apa.csl
@@ -19,11 +19,11 @@ Kenai did some fantastic facial reconstruction [@lopez_safety_2007] while he was
 ## Notes
 If you want to change the citation style language (csl) pass a different argument to  `csl` in the YAML.  Different `csl` files for zotero can be downloaded from [https://www.zotero.org/styles](https://www.zotero.org/styles).
 
-Make sure your `*.bib` file is in the same folder as your `*.Rmd` or specify the path to your `*.bib` file in the YAML.  The same advice applies to the `csl` file.  For more on authoring Rmarkdown files with bibliographies and citations see [http://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html](http://rmarkdown.rstudio.com/authoring_bibliographies_and_citations.html).
+Make sure your `*.bib` file is in the same folder as your `*.Rmd` or specify the path to your `*.bib` file in the YAML.  The same advice applies to the `csl` file.
 
 ## Some Mathematics
 
-Mathematics can be written with standard $\LaTeX$.  Inline equations are enclosed in between single `$` signs, and display equations are enclosed between double `$$` signs.
+Mathematics can be written with standard \LaTeX.  Inline equations are enclosed in between single `$` signs, and display equations are enclosed between double `$$` signs.
 
 
 #### The limit of a function
