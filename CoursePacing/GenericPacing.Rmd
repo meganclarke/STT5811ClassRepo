@@ -65,7 +65,7 @@ Watch the following videos:
 * [Colaboration and time travel: version control with git, github and RStudio (48 minutes)](https://www.rstudio.com/resources/webinars/archives/)      
 * [Reproducible Reporting (58 minutes)](https://www.rstudio.com/resources/webinars/archives/) 
 
-* Test drive RStudio by following the directions from [Jenny Bryan's STAT 545 course](http://stat545-ubc.github.io/git05_first-use-git-rstudio.html).
+* Test drive RStudio by following the directions from [Jenny Bryan's STAT 545 course](https://stat545-ubc.github.io/git07_git-github-rstudio.html).
 
 
 #### Optional
@@ -558,7 +558,7 @@ Is there a sentence or two describing the results of the Chi-Square test(s)? (0.
 * Work on your poster.
 
 * Work on the **Correlation assignment** 
-* The **Correlation assignment** is due NLT 5 PM Friday (Nov 6).  Submit the assignment via [http://www.crowdgrader.org](http://www.crowdgrader.org).  The direct link for the **Correlation assignment** is (http://www.crowdgrader.org)
+* The **Correlation assignment** is due NLT 5 PM Friday (Nov 6).  Submit the assignment via [http://www.crowdgrader.org](http://www.crowdgrader.org).  The direct link for the **Correlation Assignment** is (https://www.crowdgrader.org/crowdgrader/venues/view_venue/1580)
 
 **Correlation Assignment** 
 
@@ -578,13 +578,13 @@ Is there a multivariate graph of the principal constructs the researcher is prop
 
 Do all graphs have the *x-* and *y-*axes labeled appropriately? (0.1). Do all graphs have descriptive titles? (0.1)
 
-Is there a section for the Correlation assignment describing the two numeric variables the author uses? (0.5)
+Is there a section for the Correlation assignment describing the two numeric variables the author uses? (0.6)
 
-Is there code and output for computing the correlation coefficient? (0.4)
+Is there code and output for computing and testing the correlation coefficient?  Is there a scatterplot with appropriate labels? (0.6)
 
-Does the author explain their results following the example in PDS? (0.3)
+Does the author explain their results following the example in PDS (direction, form, strength, and outliers)? (0.6)
 
-Does the author explain their results? (Graphs should be used in the explanation.) (0.3)
+
 
 * Submit ISCAM PR#8. NLT 23:00 11/03/15 (*Investigation 2.1: Birth Weights* parts a, b, g, h, j, k, m, and n; *Investigation 2.2: How Long Can You Stand It* parts a-k; RR chapters 11.)  The direct link for the assignment is [https://www.crowdgrader.org/crowdgrader/venues/view_venue/1563](https://www.crowdgrader.org/crowdgrader/venues/view_venue/1563).  Include one example with code illustrating a concept you have mastered for chapter 11 of RR. I will add an additional "peer review" grade for your chapter 11 summary review of RR. 
 
@@ -606,11 +606,8 @@ Does the author explain their results? (Graphs should be used in the explanation
 * Read Chapters 15 and 17 in PDS (Linear Regression and Confounding and Multivariate Models) and watch the embedded videos. 
 * Read the document `Regression.html` in the `/Regression` folder. 
 * Work on your poster.
-* ~~Submit ISCAM PR#12.~~
-* Submit ISCAM PR#9. Review of chapter 12 RR.
- 
 * Work on the **Regression Assignment** 
-* The **Regression Assignment** is due NLT 5 PM Friday (Nov 13).  Submit the assignment via [http://www.crowdgrader.org](http://www.crowdgrader.org).  The direct link for the **Regression Assignment** is (http://www.crowdgrader.org/).
+* The **Regression Assignment** is due NLT 5 PM Friday (Nov 13).  Submit the assignment via [http://www.crowdgrader.org](http://www.crowdgrader.org).  The direct link for the **Regression Assignment** is (https://www.crowdgrader.org/crowdgrader/venues/view_venue/1592).
 
 **Regression Assignment** 
 
@@ -618,11 +615,19 @@ This is a continuation of the material submitted for the **Correlation** submitt
 
 #### Grading Rubric for **Regression Assignment** (PR#9)
 
+Does the document have sections that explain the Purpose of the Study (0.3), the Variables used in the study (0.3), and how the data was managed (0.4)?
+
+Is all of the data management done near the beginning of the document (0.5)? 
+
 Is there a section for the Regression assignment? (0.5)
 
-Is there code and output for testing appropriate models? (1.5)
+Is there code and output for testing appropriate regression models? (0.5)
 
-Does the author describe their results appropriately? (1)
+Does the author describe their regression results appropriately? (0.5)
+
+* ~~Submit ISCAM PR#12.~~
+
+* Submit ISCAM PR#9. NLT 23:00 11/10/15 (*Investigation 2.3: Readability of Cancer Pamphlets* parts a-f; *Investigation 2.4: The Ethan Allen* parts c, d, f, h-n; RR chapters 12.)  The direct link for the assignment is [https://www.crowdgrader.org/crowdgrader/venues/view_venue/1591](https://www.crowdgrader.org/crowdgrader/venues/view_venue/1591).  Include one example with code illustrating a concept you have mastered for chapter 12 of RR.  
 
 **Wednesday**
 
@@ -632,7 +637,10 @@ Does the author describe their results appropriately? (1)
 
 **Friday**
 
-* Read and Complete *Investigation 2.6: Healthy Body Temperatures (cont.)* from ISCAMIII prior to class.
+* ~~Read and Complete *Investigation 2.6: Healthy Body Temperatures (cont.)* from ISCAMIII prior to class.~~
+
+* Read and Complete *Investigation 2.5: Healthy Body Temperatures* from ISCAMIII prior to class.
+
 * After action review of **ANOVA Assignment (PR#8)**.
 
 ### Week 14: (Nov 16, 18, 20)
@@ -642,16 +650,23 @@ Does the author describe their results appropriately? (1)
 * Read Chapters 16 and 18 in PDS (Sampling and Designing Studies and Poster Presentation), and watch the embedded videos. 
 * Work on your poster.
 * ~~Submit ISCAM PR#13.~~
-* Submit ISCAM PR#10. Review of chapter 13 RR.
+Submit ISCAM PR#10. NLT 23:00 11/17/15 (*Investigation 2.5: Healthy Body Temperatures* all parts. The direct link for the assignment is [https://www.crowdgrader.org/crowdgrader/venues/view_venue/1610](https://www.crowdgrader.org/crowdgrader/venues/view_venue/1610).  Include one example with code illustrating a concept you have mastered for chapter 13 of RR.  
+
 
 **Wednesday**
 
-* Read and Complete *Investigation 2.7: Water Oxygen Levels* from ISCAMIII prior to class.
+* Read and Complete *Investigation 2.6: Healthy Body Temperatures (cont.)* from ISCAMIII prior to class.
+
+* ~~Read and Complete *Investigation 2.7: Water Oxygen Levels* from ISCAMIII prior to class.~~
+
 * Read chapter 13 of [Reproducible Research with R and RStudio](https://github.com/christophergandrud/Rep-Res-Book).
 
 **Friday**
 
-* Read and Complete *Investigation 2.8: Turbidity* from ISCAMIII prior to class.
+* Read and Complete *Investigation 2.7: Water Oxygen Levels* from ISCAMIII prior to class.
+
+* ~~Read and Complete *Investigation 2.8: Turbidity* from ISCAMIII prior to class.~~
+
 * After action review of **Regression Assignment (PR#9)**.
  
 ### Week 15: (Nov 23, No Class Nov 25, 26, and 27; Nov 30, Dec 2----Poster Presentation Dec 3)
